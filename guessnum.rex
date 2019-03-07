@@ -1,4 +1,5 @@
 /*Guess The Number Game REXX*/
+/*Program by Michael (misterspock1)*/
 cls
 say " " /*Just adding some spaces*/
 say " "
