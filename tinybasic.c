@@ -1,3 +1,6 @@
+/* Tom Pittman's TinyBasic interpreter written in C */
+/* Normally available here: http://www.ittybittycomputers.com/IttyBitty/TinyBasic/TinyBasic.c */
+/* Hosted here because the site was down at one time.*/
 /* Tiny Basic Intermediate Language Interpreter -- 2004 July 19 */
 
 #include <stdio.h>
