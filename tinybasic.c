@@ -1,4 +1,4 @@
-/* Tom Pittman's TinyBasic interpreter written in C */
+/* Tom Pittman's TinyBasic interpreter written in C -- New comments added by misterspock1 */
 /* Normally available here: http://www.ittybittycomputers.com/IttyBitty/TinyBasic/TinyBasic.c */
 /* Hosted here because the site was down at one time.*/
 /* Tiny Basic Intermediate Language Interpreter -- 2004 July 19 */
